@@ -117,7 +117,7 @@ int main()
 {
   int a, b, c;
   printf("enter three number :");
-  scanf("%d", &a, &b, &c);
+  scanf("%d %d %d", &a, &b, &c);
   printf("%d",((a>b)?a:b)>c?((a>b)?a:b):c);
   return 0;
 }
