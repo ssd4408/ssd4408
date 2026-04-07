@@ -5,6 +5,7 @@
 #include <stdio.h>
 
 int main(void) {
+    printf("hello");
     /* TODO: 정수형 변수 age를 선언하고 자신의 나이를 대입하세요 */
 
     /* TODO: 실수형 변수 height를 선언하고 자신의 키(cm)를 대입하세요 */
